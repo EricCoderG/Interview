@@ -2,6 +2,8 @@
 
 [键入网址到网页显示，期间发生了什么？](https://xiaolincoding.com/network/1_base/what_happen_url.html#_2-2-%E9%94%AE%E5%85%A5%E7%BD%91%E5%9D%80%E5%88%B0%E7%BD%91%E9%A1%B5%E6%98%BE%E7%A4%BA-%E6%9C%9F%E9%97%B4%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88)
 
+![image-20231008092240640](https://ericcoder-oss.oss-cn-hangzhou.aliyuncs.com/markdown_images/image-20231008092240640.png)
+
 ## 2.TCP 三次握手与四次挥手总结
 
 [TCP 三次握手与四次挥手面试题](https://xiaolincoding.com/network/3_tcp/tcp_interview.html)
