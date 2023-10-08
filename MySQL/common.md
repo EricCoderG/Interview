@@ -47,3 +47,6 @@
 ![image-20231008105232335](https://ericcoder-oss.oss-cn-hangzhou.aliyuncs.com/markdown_images/image-20231008105232335.png)
 
 [MySQL 有哪些锁？](https://xiaolincoding.com/mysql/lock/mysql_lock.html#%E5%85%A8%E5%B1%80%E9%94%81)
+
+## 11.聚簇索引和非聚簇索引的区别
+
