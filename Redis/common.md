@@ -21,3 +21,7 @@
 ## 6.Redis的数据淘汰机制
 
 [Redis 内存淘汰机制了解么？](https://javaguide.cn/database/redis/redis-questions-01.html#redis-%E5%86%85%E5%AD%98%E6%B7%98%E6%B1%B0%E6%9C%BA%E5%88%B6%E4%BA%86%E8%A7%A3%E4%B9%88)
+
+## 7.基于 Redis 实现分布式锁
+
+[基于 Redis 实现分布式锁](https://javaguide.cn/distributed-system/distributed-lock-implementations.html#%E5%9F%BA%E4%BA%8E-redis-%E5%AE%9E%E7%8E%B0%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81)
