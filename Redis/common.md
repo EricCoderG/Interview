@@ -25,3 +25,7 @@
 ## 7.基于 Redis 实现分布式锁
 
 [基于 Redis 实现分布式锁](https://javaguide.cn/distributed-system/distributed-lock-implementations.html#%E5%9F%BA%E4%BA%8E-redis-%E5%AE%9E%E7%8E%B0%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81)
+
+## 8.zset
+
+[拼多多面试官问我zset底层是如何实现的，我反手就把跳表的数据结构画了出来](https://segmentfault.com/a/1190000037473381)

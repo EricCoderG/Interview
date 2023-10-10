@@ -50,3 +50,8 @@
 
 ## 11.聚簇索引和非聚簇索引的区别
 
+[聚簇索引和非聚簇索引](https://javaguide.cn/database/mysql/mysql-index.html#%E8%81%9A%E7%B0%87%E7%B4%A2%E5%BC%95%E4%B8%8E%E9%9D%9E%E8%81%9A%E7%B0%87%E7%B4%A2%E5%BC%95)
+
+## 12.什么是慢SQL,如何查找，如何优化
+
+[如何定位慢SQL以及慢SQL日志分析与优化方案](https://heapdump.cn/article/3892198)
