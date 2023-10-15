@@ -10,6 +10,12 @@
 
 [调度算法](https://xiaolincoding.com/os/4_process/process_base.html#%E8%B0%83%E5%BA%A6%E7%AE%97%E6%B3%95)
 
++ 先来先服务
++ 最短作业优先
++ 高响应比优先
++ 时间片轮转
++ 多级反馈队列
+
 ## 4.进程间有哪些通信⽅式
 
 [进程间有哪些通信方式？](https://xiaolincoding.com/os/4_process/process_commu.html)
