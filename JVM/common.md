@@ -8,7 +8,7 @@
 
 ## 2.JVM垃圾回收详解
 
-[JVM垃圾回收详解](https://javaguide.cn/java/jvm/jvm-garbage-collection.html)
+[图解Java的垃圾回收机制](https://javabetter.cn/jvm/tujie-gc.html)
 
 ## 3.类文件结构详解
 
