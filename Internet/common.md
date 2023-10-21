@@ -2,7 +2,7 @@
 
 [键入网址到网页显示，期间发生了什么？](https://xiaolincoding.com/network/1_base/what_happen_url.html#_2-2-%E9%94%AE%E5%85%A5%E7%BD%91%E5%9D%80%E5%88%B0%E7%BD%91%E9%A1%B5%E6%98%BE%E7%A4%BA-%E6%9C%9F%E9%97%B4%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88)
 
-![image-20231008092240640](https://ericcoder-oss.oss-cn-hangzhou.aliyuncs.com/markdown_images/image-20231008092240640.png)
+![image-20231008092240640](images/common/image-20231008092240640.png)
 
 ## 2.TCP 三次握手与四次挥手总结
 
@@ -58,11 +58,11 @@ TCP 建立连接时，通过三次握手**能防止历史连接的建立，能�
 
 ## 9.HTTP1.0和HTTP1.1的区别？
 
-![image-20231007183613837](https://ericcoder-oss.oss-cn-hangzhou.aliyuncs.com/markdown_images/image-20231007183613837.png)
+![image-20231021213136507](images/common/image-20231021213136507.png)
 
 ## 10.HTTP2.0与HTTP1.1的区别？
 
-![image-20231007183638536](https://ericcoder-oss.oss-cn-hangzhou.aliyuncs.com/markdown_images/image-20231007183638536.png)
+![image-20231021213148533](images/common/image-20231021213148533.png)
 
 ## 11.HTTPS的⼯作原理？(https是怎么建⽴连接的）
 
@@ -70,7 +70,7 @@ TCP 建立连接时，通过三次握手**能防止历史连接的建立，能�
 
 ## 12.HTTPS与HTTP的区别
 
-![image-20231007184309702](https://ericcoder-oss.oss-cn-hangzhou.aliyuncs.com/markdown_images/image-20231007184309702.png)
+![image-20231021213207616](images/common/image-20231021213207616.png)
 
 ## 13.DNS是什么，及其查询过程
 
@@ -89,11 +89,11 @@ TCP 建立连接时，通过三次握手**能防止历史连接的建立，能�
 
 至此，我们完成了 DNS 的解析过程。现在总结一下，整个过程总结成了一个图。
 
-![域名解析的工作流程](https://ericcoder-oss.oss-cn-hangzhou.aliyuncs.com/markdown_images/6.jpg)
+![image-20231021213228328](images/common/image-20231021213228328.png)
 
 ## 14.HTTP多个TCP连接怎么实现
 
-![image-20231007184440930](https://ericcoder-oss.oss-cn-hangzhou.aliyuncs.com/markdown_images/image-20231007184440930.png)
+![image-20231021213237030](images/common/image-20231021213237030.png)
 
 ## 15.TCP 的 Keepalive 和 HTTP 的 Keep-Alive 是⼀个东⻄吗？
 
@@ -105,15 +105,15 @@ TCP 的 Keepalive 也叫 TCP 保活机制，该功能是由「内核」实现的
 
 ## 16.TCP连接如何确保可靠性
 
-![image-20231007184658868](https://ericcoder-oss.oss-cn-hangzhou.aliyuncs.com/markdown_images/image-20231007184658868.png)
+![image-20231021213255734](images/common/image-20231021213255734.png)
 
 ## 17.拥塞控制是怎么实现的
 
-![image-20231007184823866](https://ericcoder-oss.oss-cn-hangzhou.aliyuncs.com/markdown_images/image-20231007184823866.png)
+![image-20231021213311141](images/common/image-20231021213311141.png)
 
 ## 18.Cookie和Session是什么？有什么区别？
 
-![image-20231007184919834](https://ericcoder-oss.oss-cn-hangzhou.aliyuncs.com/markdown_images/image-20231007184919834.png)
+![image-20231021213324444](images/common/image-20231021213324444.png)
 
-![image-20231007184928398](https://ericcoder-oss.oss-cn-hangzhou.aliyuncs.com/markdown_images/image-20231007184928398.png)
+![image-20231021213335343](images/common/image-20231021213335343.png)
 
